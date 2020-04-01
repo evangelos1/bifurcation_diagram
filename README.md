@@ -1,2 +1,2 @@
 # bifurcation_diagram
-Plot the bifurcation diagram
+Plot bifurcation diagrams
