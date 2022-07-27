@@ -1,2 +1,2 @@
 # bifurcation_diagram
-Plot bifurcation diagrams
+Plot the bifurcation diagram of the logistic map
